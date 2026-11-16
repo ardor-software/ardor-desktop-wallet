@@ -30,7 +30,7 @@ Verify all files against the SHA-256 values below.
 
 | File | SHA-256 |
 | --- | --- |
-| `ardor-wallet-2.6.5.exe` | `b5ef67ee6abbe1d8c0ad228576ed6fce6789cde64679d04734d565842c8f7048` |
+| `ardor-wallet-2.6.5.exe` | `3ec43c70b1bc08d19bb6c6b7a8c41e79166a8a58ea279fe6242041b6c204da90` |
 | `ardor-wallet-2.6.5.sh` | `c6ffca83a27f27bda3e883f934417d7a301964a0c6ab69c03cff4492da62c61c` |
 | `ardor-wallet-2.6.5.zip` | `28093fb99c3903bc72cfe53fa948e2c9f63dd671011f1b486b68cc3ad786121f` |
 
